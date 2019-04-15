@@ -1,0 +1,28 @@
+{
+  "name": "ts-github-search",
+  "version": "1.0.0",
+  "description": "search wrapper for githubs api",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeedBoot/ts-github-search.git"
+  },
+  "author": "oli booty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeedBoot/ts-github-search/issues"
+  },
+  "homepage": "https://github.com/SeedBoot/ts-github-search#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.13",
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
